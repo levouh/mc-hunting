@@ -1,0 +1,18 @@
+name: Hunting
+version: 1.0
+author: ScoobyDoo
+main: com.dutchachu.Plugin
+description: erk gay
+
+commands:
+  role:
+    description: Open a GUI menu to choose the player's role.
+    usage: /<command>
+    
+  start:
+    description: Start a game of hunter versus hunted.
+    usage: /<command>
+    
+  reset:
+    description: Reset by respawning all players and clearing their information.
+    usage: /<command>
