@@ -1,2 +1,3 @@
 # mc-hunting
-¯\_(ツ)_/¯
+
+Plugin for hunter/hunted game mode, intended to be used with a `spigot` server.
