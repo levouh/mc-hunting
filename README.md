@@ -3,7 +3,7 @@
 Plugin for hunter/hunted game mode, intended to be used with a `spigot` server.
 
 ## Objective
-Players choose to be a `hunter` or `hunted`, where the former team tries to kill all members of the latter team before they can reach a certain point in the game. The ending state, whether it be getting to the _Nether_, _End_, etc. is arbitrary and more so up to the players themselves.
+Players choose to be a `hunter` or `hunted`, where the former team tries to kill all members of the latter team before they can reach a certain point in the game. The ending state, whether it be getting to the _Nether_, _End_, etc. is arbitrary and is not "officially" tracked by the plugin.
 
 Note that once a `hunted` player dies, they will be put in _spectator_ ode until the game is reset.
 
